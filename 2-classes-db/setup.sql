@@ -1,3 +1,4 @@
+
 CREATE TABLE expense_types (
   id            SERIAL PRIMARY KEY,
   expense_type  VARCHAR(30) NOT NULL
